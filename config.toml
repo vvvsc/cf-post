@@ -8,7 +8,7 @@ defaultContentLanguage = "es"
 # you can use markdown inside this field
 copyright = "Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)"
 
-paginate = 5  # number of articles per page in the index
+pagination.pagerSize = 5  # number of articles per page in the index
 summaryLength = 70  # number of words for article summaries
 
 
@@ -18,7 +18,7 @@ summaryLength = 70  # number of words for article summaries
 
     posts = "posts"  # content directory where to find home page posts; default searches in "posts" and "post"
     showPostsLink = true  # show or hide the link to the simple post list
-    extraContentDirs = ["plra", "otros", "modelos", "acerca-del-sitio", "links", "preprints"]  # other content directories to render similarly to the home page
+    extraContentDirs = ["plra", "otros", "modelos", "about", "links", "preprints"]  # other content directories to render similarly to the home page
     showcaseDir = "showcase"  # create a content directory that shows a special showcase section in the home page
 
     # shows a specified single page as a home page, instead of the traditional articles list
@@ -40,7 +40,7 @@ summaryLength = 70  # number of words for article summaries
     showTags = true  # show the Tags menu item; default true
     showRss = true  # show the link for the RSS feed; default true
 
-    imageInArticlePreview = false  # show images in article preview; default false
+    imageInArticlePreview = true  # show images in article preview; default false
     fitImageInArticlePreview = false  # make article preview images fit the article preview instead of getting cropped
     articleSummary = true  # show a summary in article preview; default true
     
@@ -58,7 +58,7 @@ summaryLength = 70  # number of words for article summaries
     paperCards = true  # enable paper card style; default false
     buttonTags = false  # enable button tag style; default false
     tagsInArticlePreview = true  # enable tags list in the article preview card
-    gridView = false  # show post list as a grid. goes well with paperCards
+    gridView = true  # show post list as a grid. goes well with paperCards
     bigArticleTitle = false  # makes the title in the single article view bigger
     navtype = "standard"  # changes the style of the pagination, available styles are: "standard", "circles"
     enableShadow = false  # shows a shadow around some elements
