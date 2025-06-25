@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Firma on 0007407.xyz</title>
+    <link>//localhost:1313/tags/firma/</link>
+    <description>Recent content in Firma on 0007407.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/firma/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>No valida la firma</title>
+      <link>//localhost:1313/es/posts/no-valida/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/no-valida/</guid>
+      <description><![CDATA[<h2 id="no-veo-el-coso-ese-en-mi-pantalla-acá"><em>No veo el coso ese en mi pantalla, acá.</em></h2>
+<p>Más de uno de nosotros se habrá fijado que los oficios internos o a instituciones con las cuales el PJ tiene acuerdos, está firmado digitalmente pero en nuestras pcs dice que no valida.</p>
+<p>Era una especie de <code>cosa nostra</code> cuando los oficios corrían internamente, porque sabemos que las firmas son tales aunque no aparezca en la pantalla que lo son.</p>
+<p>Pero la Corte Suprema firmo acuerdos con otros entes estatales las que, al menos de alguna de ellas, debería saber de que se trata una firma digital porque&hellip; es su trabajo.</p>
+<p>Muchos Juzgados han vuelto al papel en estos casos. Qué se le va a hacer.</p>
+<h2 id="qué-es-lo-que-avisa-el-programa">¿Qué es lo que avisa el programa?</h2>
+<p>Cuando uno ve que una firma valida, lo que debe leer es que la misma es consistente consigo misma y con el documento. Si uno se fija dice que el documento no fue alterado.</p>
+<p>Pero fecha ya no nos da la empresa que provee los servicios. Cuando que implementarlo es escribir una línea de código.</p>
+<p>Pero además de eso da cuenta de si la firma misma esta <em>completa</em>. Completa en el sentido de la <em>SSL</em>. Es decir si tiene una cadena discernible de firmas. Y la de los actuarios no la tienen porque por alguna razón al producirselos se pasó por alto ese detalle.</p>
+<p>Son tres firmas, el de los Actuarios, el que usan para los oficios concretamente, tiene dos.</p>
+<h2 id="we-are-back-on-the-chain-gang">We are back on the chain gang.</h2>
+<p>Uno puede leer un año entero la documentación del SSL y no enterarse de nada. Su servidor hizo un esquema básico del que se usa para firmar. Es altamente centralizado y&hellip; creo que funciona, funciona mejor que el GPG que no es centralizado pero&hellip; <code>Full stop.</code></p>
+<div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
+            height: 0; overflow: hidden;">
+    <iframe src="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/QmR2TosQ2d4T6XbHTz1bh78BEH3ctQXPszab5kQAeUofJb" 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+            frameborder="0">
+        Your browser does not support iframes.
+    </iframe>
+</div>
+
+<p>Este artículo se escribirá por partes porque me doy cuenta de que el dibujo no servirá mucho sólo.</p>
+<p>Alguno se podría preguntar si la CSJ no siendo una autoridad reconocida puede emitir certificados&hellip; La respuesta corta es sí. Como cualquier otra persona, tiene capacidad de validar. Es más, una posición privilegiada para hacerlo.</p>
+<p>Sí podría serlo el exponer los pasos para hacerse de una firma digital <strong>no cualificada</strong> que al final del día, es lo mismo que una.</p>
+<h2 id="certificador-no-autorizado">Certificador no autorizado</h2>
+<p>La certificacación expedida por un certificador no autorizado no es que no sea válida. Bajo ciertas condiciones es tan válida como la expedida por uno autorizado.</p>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Mi vieja firma ya no es la que era.</title>
+      <link>//localhost:1313/es/posts/my-old-gray-mare/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/my-old-gray-mare/</guid>
+      <description><![CDATA[<p>Estos son comentarios sobre un post local sobre la firma electrónica que está tan mal que uno no puede sino replicar un poco. No voy a señalar la fuente a menos que me lo indiquen.</p>
+<h2 id="sé-específico">Sé específico.</h2>
+<blockquote>
+<p>La LSC define a la Firma Electrónica como un conjunto de datos en formato electrónico anexos a otros datos electrónicos o asociados de manera lógica con ellos que utiliza el firmante para firmar que, como podemos notar, es una definición amplia y poco específica.</p></blockquote>
+<p><a href="https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32014R0910&amp;page=112">En realidad solo está transcribiendo la legislación europea.</a>. Pero es fácil definir la firma manuscrita como <em>conjunto de datos anexos a otros datos o asociados de manera lógica con ellos que utiliza el firmante para firmar</em> y esa definición sería más exacta que la dada por la RAE, que convoca la idea de un rúbrica y vaya a saber uno que es una rúbrica o no. Lo que sucede es que como la firma electrónica se forma mediante un algoritmo, la ley, espejeando el proceso en magia simpática, da una definición de la clase de definiciones que uno diría son lógicas. Es un <em>set</em> asociado a otro <em>set</em> que utiliza otro <em>set</em> llamada persona. Etc.</p>
+<blockquote>
+<p>La usual interrogante que surge en estos casos es saber si la firma electrónica no cualificada tiene o puede tener validez jurídica.</p></blockquote>
+<p>Eh, claro creo que sí podríamos inquirir en la ley que se ocupa de la firma electrónica y de sus multiples variaciones, si tal tipo es legalmente válido; es decir, sigue siendo una pregunta lícita.</p>
+<h2 id="sé-importante">Sé importante.</h2>
+<blockquote>
+<p>Según lo establecido en el Art 39 de La LSC, tiene validez para efectos jurídicos, procedimientos privados, judiciales y administrativos, pero no se equipara a una firma manuscrita.</p></blockquote>
+<p>Es acá donde quería llegar porque esto es fundamentalmente falso. Y peligroso. Cualquiera puede crear un certificado SSL con un nombre del tipo <em>La Mejor Certificadora Mundial</em> y generar una firma digital con la cual firmar sus documentos. No importa cuán graciosa o no sea el nombre de su certificadora de mentirillas, si hay forma de enlazar esa firma con el firmante &mdash;por ejemplo lo publica en su sitio web, lo usa para firmar su blog, lo que sea&mdash; si hay forma de hacerlo, la firma es tan valida como cualquiera otra.</p>
+<p>Naturalmente que poca gente creería en mi certificadora, pero yo que la cree no podría ampararme en ese probable hecho para eximirme de responsabilidad. De la misma manera, una firma emitida por <a href="https://www.documenta.com.py/">DOCUMENTA S.A.</a> que ni siquiera cumple con los estándares locales, será menos creíble que una de <a href="https://www.sectigo.com/es">Sectigo</a>, la Certificadora <em>de facto</em> que probablemente se halle en todo el sofware que uses.</p>
+<blockquote>
+<p>Por otro lado, la Firma Electrónica Cualificada tiene efecto jurídico equivalente al de una firma manuscrita. Esta se genera mediante un dispositivo idóneo de creación de firmas electrónicas, fundado en un certificado acreditado.</p></blockquote>
+<p>Una firma manuscrita puede ser discutida de <em>n</em> formas. Y si recurrimos a la pericia, cualquiera sabe que ello es una brujería que se paga. Bueno, bastante más difícil sería negar una firma electrónica cualificada o no. Para el caso de los que utiliza la Corte, implicaría el relato de la manera en que el funcionario perdió su <em>token</em> &mdash;es decir su llave privada&mdash; y como fue que contó a muchas personas su contraseña para que en caso de olvidarla, se la recordasen.</p>
+<h2 id="sé-exacto">Sé exacto.</h2>
+<blockquote>
+<p>Con respecto a la celebración de contratos por medios telemáticos, de acuerdo con el Art 67 de la LSC, las partes tienen la posibilidad de indicar su oferta y aceptación mediante documentos electrónicos, a menos que hayan convenido lo contrario.</p></blockquote>
+<p>Esto es extrañamente exacto. La firma digital es una firma más y está sujeta a los avatares de las demás firmas, así como indica mi autor que los contratos celebrados de manera telemática &mdash;en la que también concurren firmas electrónicas generadas <em>on your behalf</em>&mdash; son&hellip; eso. Contratos.</p>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Timestampi, qu&#39;est-ce que c&#39;est?</title>
+      <link>//localhost:1313/es/posts/your-e-signature-is-broken/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/your-e-signature-is-broken/</guid>
+      <description><![CDATA[<p>Las siguientes líneas cargan con dos o tres simplificaciones, porque entiendo que su extensión implican algo más que el discurso propio del derecho. Anoto que la e-sign está definida por sumas y por potenciaciones a números primos muy altos; basta saber eso para conocer la naturaleza de lo que elido.</p>
+<ol>
+<li>
+<p>La firma electrónica da cuenta de la integridad del documento, de que el mismo no ha sido alterado una vez que fue firmado.<br>
+1.1. En este sentido es ~100% fiable. Error humano es aún posible pero no hablamos de eso.</p>
+</li>
+<li>
+<p>La voluntad expresada es connatural a la firma que refrenda tal voluntad.<br>
+2.2. El transcurso del tiempo sucede por fuera del mismo y no depende de la voluntad de los firmantes o del firmante.<br>
+2.2.3. El tiempo debe hacerse constar de una manera externa al mismo.<br>
+2.2.3.4. Esta era la labor del Notario y esta era la labor del Secretario.</p>
+</li>
+<li>
+<p>La fecha de la firma electrónica utilizada está fijada por el que la expide.<br>
+3.3. El que la expide puede equivocarse o mentir.<br>
+3.3.1. Es natural que entra una disonancia entre una y otra valdrá la fecha puesta por el Judisoft.<br>
+3.3.1.2 El Judisoft decide la fecha por sí mismo.</p>
+</li>
+<li>
+<p>La firma electrónica de la forma en que se la ha concebido e impuesta en el medio, está rota. No vale, ni sirve a sus fines.</p>
+</li>
+</ol>
+<hr>
+<p>¿Qué ocurre si una firma no lleva sello de tiempo?</p>
+<p>Como ya se ha mencionado, la marca de tiempo puede demostrar que un documento no ha sido alterado desde que se emitió la marca de tiempo.</p>
+<p>Si se impugna un documento, puede ser difícil demostrar que la firma digital era válida en el momento de la firma sin una marca de tiempo. La mayoría de los certificados de firma caducan al cabo de uno o dos años, por lo que es difícil demostrar la validez del documento varios años después.</p>
+<p>Sin una marca de tiempo para los documentos legalmente vinculantes, como los contratos comerciales, alguien podría alterar el reloj de su ordenador y luego renunciar a un documento. Esto, a su vez, podría dar lugar a costosas batallas legales, ya que las partes se disputarían sus reclamaciones.</p>
+<p>El sellado de tiempo es esencialmente un testigo independiente. Proporciona las pruebas necesarias para demostrar que el documento no ha cambiado desde que se envió el hash del documento a la TSA en el momento de la firma.</p>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

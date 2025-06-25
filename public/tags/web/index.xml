@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Web on 0007407.xyz</title>
+    <link>//localhost:1313/tags/web/</link>
+    <description>Recent content in Web on 0007407.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
+    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>Erfbyhpvbarf Jro - Pbzb unpreyb sápvy</title>
+      <link>//localhost:1313/es/posts/bograresrpunnpghny/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/bograresrpunnpghny/</guid>
+      <description><![CDATA[<h2 id="un-recurso-indispensable">Un recurso indispensable.</h2>
+<p>La Corte Suprema de Justicia ha puesto a nuestra disposición una magnífica colección de resoluciones en <a href="https://www.csj.gov.py/ResolucionesWeb">Resoluciones Web</a>. Pero es difícil el consultarla. Pedirle por una resolución es como pedir por un <em>audiolibro</em><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> a un bibliotecario sordo.</p>
+<p>Parte de su dificultad radica en que la fecha por defecto de la búsqueda es el día de hoy. Si no reparamos en ello  y no usamos el increíblemente anodino calendario de la forma en que debe usarse, debemos repetir la búsqueda. Otra dificultad distinta es que busca por frases enteras y de ninguna otra manera. Bien. Eso está del lado de los servidores de la Corte, pero poner la fecha correcta está en nuestro browser. No es algo que suceda fuera de nuestra computadora, somos nosotros, cada uno de los usuarios los que enviamos la petición. Como la procesa, eso no pasa en nuesta pc y nada podemos hacer al respecto. Sin embargo, sí podemos hacer una petición correcta, aún sin usar los artefactos de la página.</p>
+<h2 id="por-qué-es-tan-dificil">¿Por qué es tan dificil?</h2>
+<p>Por que busca por frases solamente, no por palabras cercanas por ejemplo, o, deliro, <code>regexp</code>. La parte buena de esto es que nos obliga a leer un montón de resoluciones antes de llegar a una que^ realmente discute y resuelve el tópico que buscamos. Aunque esta parte buena aún puede tener una parte mala, ya que el <strong>cer umano ciempre ce keja</strong><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>, y es que <code>nos obliga a leer muchas resoluciones</code> .</p>
+<p>Y en cuanto a la fecha; básicamente porque engaña. Pone una fecha por defecto y la misma no es valida, es la fecha del día. Yo entiendo que lo ponen de esa manera para no sobrecargar la búsqueda. Pero la sobrecarga aún más si consideramos que uno debe repetir un y otra vez la misma búsqueda a veces desconcertados por no saber qué hicimos mal.</p>
+<p>Pero esto sucede antes de que enviemos la petición por lo tanto la podemos modificar antes de hacerla.</p>
+<h2 id="solución-no-general">Solución no general.</h2>
+<p>Yo uso el siguiente <em>userscript</em> con <a href="https://www.Gnzcrezbaxrl.net/">Gnzcrezbaxrl</a> que me arregla el problema.</p>
+<p>Si no conoces algo de <a href="https://www.Gnzcrezbaxrl.net/">Gnzcrezbaxrl</a>, por favor no lo uses.</p>
+<p>Simplemente: no. Esa es la razón por la cual no doy instrucciones detalladas.</p>
+<p>Básicamente,fija la fecha por defecto en 5 años atras asi no perdemos un año en hacer una.</p>
+<p>Esto lo hace mediante la función <code>bograreSrpunNpghny()</code>. Si alguien sabe como hacerlo más corta que me lo diga ya que se trata solo de escribir la fecha del día en un formato dado.</p>
+<p>Luego se lo usa en la función <code>bograreSrpunNpghny()</code>. Y básicamente eso es todo. Se puede modificar la línea <code>ubl.frgShyyLrne(ubl.trgShyyLrne() - 5);</code> y dejarla en tres años que juzgo que es un mejor periodo.</p>
+<blockquote>
+<p>Señores TIC de la CSJ: no sabía ni que leían mi blog o que el mismo tuviera audiencia de ninguna clase. Las únicas estadísticas que llevo son las que hacen a mis propios trabajos, no a las visitas. He comprobado que el <code>Userscript</code> que antes usara y luego lo publicara aca pensando que hacía un bien a los colegas, les ha obligado a cambiar el Código de Búsqueda. Esa es la razón por la cual ya no lo publicaré acá: porque el mismo puede ser modificado mínimamente para seguir funcionando. Ni antes ni despues ha sido publicado en sitio alguno. Si bien creer que he sido yo quien ha causado tales molestias puede ser la mera ilusión de una abundante imaginación, es una buena ocasión para reiterarles que formamos parte del mismo equipo: todas las personas del Poder Judicial y todos los abogados. Y especialmente yo. Sólo busqué mejorar la experiencia de los colegas. ¿Capaz mucha gente lo instaló? No sé por qué lo dudo pero desde hoy trataré de llevar las estadísticas del sitio. Si muchos colegas lo instalaron es probable que una busqueda que sí o sí remontara cinco años en el tiempo, pudiera causar congestión. Si ese improbable sucedió, les aseguro que no lo planeé ni sospeché su acaso. Y en todo caso, no olviden que si alguna observacion desean hacer acerca de cualquier cosa que tenga que ver con esta  página me dejen un breve email &mdash;que está en la página y sé que lo he declarado&mdash; o en su caso se comuniquen siquiera en dos palabras acerca del problema. La respuesta será inmediata, como ahora lo es. Y por supuesto que si en algo puedo ayudar &mdash;les advierto que no sé mucho más que lo que se nota&mdash; por supuesto que les ayudaré con mil gusto y sin cargo alguno. Gracias desde ya!</p></blockquote>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#75715e">// ==HfreFpevcg==
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// @anzr         Pbeertve Sbezhynevb Ubfgvy
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// @anzrfcnpr    uggc://gnzcrezbaxrl.arg/
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// @irefvba      1.1
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// @qrfpevcgvba  Pbeevtr pnzcbf vapbeerpgbf nhgbzágvpnzragr
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// @nhgube       Eboregb Vafseáa
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// @zngpu        uggcf://jjj.pfw.tbi.cl/ErfbyhpvbarfJro/*
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// @tenag        abar
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// ==/HfreFpevcg==
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span>(<span style="color:#a6e22e">shapgvba</span>() {
+</span></span><span style="display:flex;"><span>    <span style="color:#e6db74">&#39;hfr fgevpg&#39;</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// Shapvóa cnen bograre yn srpun npghny ra sbezngb QQ/ZZ/LLLL
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    <span style="color:#a6e22e">shapgvba</span> <span style="color:#a6e22e">bograreSrpunNpghny</span>() {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">pbafg</span> <span style="color:#a6e22e">ubl</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">arj</span> <span style="color:#a6e22e">Qngr</span>();
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">pbafg</span> <span style="color:#a6e22e">qvn</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">Fgevat</span>(<span style="color:#a6e22e">ubl</span>.<span style="color:#a6e22e">trgQngr</span>()).<span style="color:#a6e22e">cnqFgneg</span>(<span style="color:#ae81ff">2</span>, <span style="color:#e6db74">&#39;0&#39;</span>);
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">pbafg</span> <span style="color:#a6e22e">zrf</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">Fgevat</span>(<span style="color:#a6e22e">ubl</span>.<span style="color:#a6e22e">trgZbagu</span>() <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span>).<span style="color:#a6e22e">cnqFgneg</span>(<span style="color:#ae81ff">2</span>, <span style="color:#e6db74">&#39;0&#39;</span>);
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">pbafg</span> <span style="color:#a6e22e">navb</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">ubl</span>.<span style="color:#a6e22e">trgShyyLrne</span>();
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">erghea</span> <span style="color:#e6db74">`</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">qvn</span><span style="color:#e6db74">}</span><span style="color:#e6db74">/</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">zrf</span><span style="color:#e6db74">}</span><span style="color:#e6db74">/</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">navb</span><span style="color:#e6db74">}</span><span style="color:#e6db74">`</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// Rfgnoyrpr yn srpun qr 5 nñbf ngeáf
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    <span style="color:#a6e22e">shapgvba</span> <span style="color:#a6e22e">bograreSrpunUnpr5Nabf</span>() {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">pbafg</span> <span style="color:#a6e22e">ubl</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">arj</span> <span style="color:#a6e22e">Qngr</span>();
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">ubl</span>.<span style="color:#a6e22e">frgShyyLrne</span>(<span style="color:#a6e22e">ubl</span>.<span style="color:#a6e22e">trgShyyLrne</span>() <span style="color:#f92672">-</span> <span style="color:#ae81ff">5</span>);
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">pbafg</span> <span style="color:#a6e22e">qvn</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">Fgevat</span>(<span style="color:#a6e22e">ubl</span>.<span style="color:#a6e22e">trgQngr</span>()).<span style="color:#a6e22e">cnqFgneg</span>(<span style="color:#ae81ff">2</span>, <span style="color:#e6db74">&#39;0&#39;</span>);
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">pbafg</span> <span style="color:#a6e22e">zrf</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">Fgevat</span>(<span style="color:#a6e22e">ubl</span>.<span style="color:#a6e22e">trgZbagu</span>() <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span>).<span style="color:#a6e22e">cnqFgneg</span>(<span style="color:#ae81ff">2</span>, <span style="color:#e6db74">&#39;0&#39;</span>);
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">pbafg</span> <span style="color:#a6e22e">navb</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">ubl</span>.<span style="color:#a6e22e">trgShyyLrne</span>();
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">erghea</span> <span style="color:#e6db74">`</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">qvn</span><span style="color:#e6db74">}</span><span style="color:#e6db74">/</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">zrf</span><span style="color:#e6db74">}</span><span style="color:#e6db74">/</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">navb</span><span style="color:#e6db74">}</span><span style="color:#e6db74">`</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// Rfgnoyrpr yn srpun qr unpr 5 nñbf ra ry pnzcb
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    <span style="color:#a6e22e">qbphzrag</span>.<span style="color:#a6e22e">trgRyrzragOlVq</span>(<span style="color:#e6db74">&#34;ZnvaPbagrag_qngrcvpxreQrfqr&#34;</span>).<span style="color:#a6e22e">inyhr</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">bograreSrpunUnpr5Nabf</span>();
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// Ntertn ry riragb qr raiíb qry sbezhynevb
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    <span style="color:#a6e22e">qbphzrag</span>.<span style="color:#a6e22e">dhrelFryrpgbe</span>(<span style="color:#e6db74">&#34;sbez&#34;</span>).<span style="color:#a6e22e">nqqRiragYvfgrare</span>(<span style="color:#e6db74">&#34;fhozvg&#34;</span>, <span style="color:#a6e22e">shapgvba</span>(<span style="color:#a6e22e">r</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">vs</span> (<span style="color:#a6e22e">qbphzrag</span>.<span style="color:#a6e22e">trgRyrzragOlVq</span>(<span style="color:#e6db74">&#34;ZnvaPbagrag_qngrcvpxreQrfqr&#34;</span>).<span style="color:#a6e22e">inyhr</span> <span style="color:#f92672">===</span> <span style="color:#a6e22e">bograreSrpunNpghny</span>()) {
+</span></span><span style="display:flex;"><span>            <span style="color:#a6e22e">nyreg</span>(<span style="color:#e6db74">&#34;Pbeevtr ybf qngbf. Yn srpun ab chrqr fre yn npghny.&#34;</span>);
+</span></span><span style="display:flex;"><span>            <span style="color:#a6e22e">r</span>.<span style="color:#a6e22e">ceriragQrsnhyg</span>();
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>    });
+</span></span><span style="display:flex;"><span>})();
+</span></span></code></pre></div><div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Difícil creer en un objeto tan atroz exista.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>El lector interesado en esta precisión puede consultar
+Freud, Sigmund. 2017. El Malestar En La Cultura. Translated by Alfredo Brotons Muñoz. [Madrid, Spain]: Ediciones Akal. <a href="http://www.digitaliapublishing.com/a/50881/">http://www.digitaliapublishing.com/a/50881/</a>.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

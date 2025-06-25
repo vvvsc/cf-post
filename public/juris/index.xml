@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Jurisprudencia on 0007407.xyz</title>
+    <link>//localhost:1313/juris/</link>
+    <description>Recent content in Jurisprudencia on 0007407.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
+    <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/juris/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>Daño Moral</title>
+      <link>//localhost:1313/es/juris/dano-moral/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/juris/dano-moral/</guid>
+      <description><![CDATA[<h3 id="-daño-moral">📄 <strong>Daño moral</strong></h3>
+<p>En la <strong>acción de inconstitucionalidad</strong> promovida por los padres de un menor fallecido por electrocución, atribuida a una falla de la <strong>Administración Nacional de Electricidad (ANDE)</strong>. El caso se origina en un juicio de <strong>responsabilidad extracontractual</strong>, donde en primera instancia se concede una indemnización por daño moral, pero se rechazan los rubros de <em>pérdida de chance</em> e <em>intereses desde la demanda</em>.</p>
+<p>Los accionantes cuestionan la constitucionalidad de las resoluciones del <strong>Juzgado de Primera Instancia</strong> y del <strong>Tribunal de Apelación Quinta Sala</strong>, alegando violaciones a los artículos 16, 17, 137 y 256 de la Constitución Nacional paraguaya. Alegan arbitrariedad, falta de congruencia, fundamentación insuficiente y contradicciones lógicas en las sentencias.</p>
+<p>La Sala Constitucional de la Corte Suprema de Justicia concluye que <strong>sí existieron vicios graves</strong>, particularmente:</p>
+<ul>
+<li><strong>Incongruencia extra petita</strong> (el tribunal se apartó de lo planteado por las partes, especialmente en relación con el rechazo de la pérdida de chance);</li>
+<li><strong>Contradicciones internas</strong> en las resoluciones, particularmente sobre si ciertos rubros fueron o no concedidos;</li>
+<li><strong>Falta de motivación razonable</strong> para determinar el monto del daño moral.</li>
+</ul>
+<p>Por lo tanto, la Corte <strong>hace lugar a la acción de inconstitucionalidad</strong>, declara la nulidad del Acuerdo y Sentencia N.º 111 de 2018, y ordena el reenvío a un nuevo tribunal.</p>
+<hr>
+<h3 id="-información-externa-complementaria">📚 <strong>Información externa complementaria</strong></h3>
+<p>En doctrina y jurisprudencia comparada, especialmente en Argentina y Paraguay, se ha sostenido que la <strong>pérdida de chance</strong> es un daño autónomo indemnizable cuando hay alta probabilidad de que una expectativa (económica o vital) se hubiera concretado de no mediar el hecho dañino. La exclusión automática de este rubro en menores, como en este caso, ha sido criticada por no considerar adecuadamente las condiciones familiares y contextuales.</p>
+<p>Respecto al <strong>daño moral</strong>, se reconoce su <strong>naturaleza no patrimonial</strong>, y se exige al juez una <strong>motivación razonada</strong>, aunque libre, conforme al principio de <strong>prudente arbitrio judicial</strong>. Según autores como Antonio Tellechea y López Mesa, la falta de motivación suficiente puede constituir un vicio constitucional, como ocurrió aquí.</p>
+<p>En cuanto al <strong>principio de congruencia procesal</strong>, la Corte Suprema ha sostenido reiteradamente que es una <strong>garantía del debido proceso</strong> y que su vulneración constituye causal de nulidad constitucional (cf. Alvarado Velloso, <em>Lecciones de Derecho Procesal Civil</em>).</p>
+<hr>
+<h3 id="-entrada-bibtex">🔖 <strong>Entrada BibTeX</strong></h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bibtex" data-lang="bibtex"><span style="display:flex;"><span><span style="color:#a6e22e">@case</span>{CSJPY2019inconstitucionalidad,
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">title</span>     = <span style="color:#e6db74">{Acción de inconstitucionalidad promovida por Arnaldo Joel González Insfrán c/ Administración Nacional de Electricidad (ANDE) s/ Indemnización de daños y perjuicios por responsabilidad extracontractual}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">year</span>      = <span style="color:#e6db74">{2019}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">number</span>    = <span style="color:#e6db74">{Expediente N.º 2156/2019}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">court</span>     = <span style="color:#e6db74">{Corte Suprema de Justicia, Sala Constitucional, Paraguay}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">date</span>      = <span style="color:#e6db74">{2021-07-01}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">note</span>      = <span style="color:#e6db74">{Se resolvió hacer lugar a la acción de inconstitucionalidad y declarar la nulidad del Acuerdo y Sentencia N.º 111/2018}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">keywords</span>  = <span style="color:#e6db74">{inconstitucionalidad, pérdida de chance, daño moral, congruencia procesal, responsabilidad extracontractual, Paraguay}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">url</span>       = <span style="color:#e6db74">{https://www.csj.gov.py}</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div>]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

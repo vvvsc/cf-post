@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Wilson Villalba on 0007407.xyz</title>
+    <link>//localhost:1313/en/</link>
+    <description>Recent content in Wilson Villalba on 0007407.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
+    <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>Can Lawyers Get Paid for Fighting to Get Paid?</title>
+      <link>//localhost:1313/en/posts/can-lawyers-get-paid/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/en/posts/can-lawyers-get-paid/</guid>
+      <description><![CDATA[<h2 id="i-introduction">I. Introduction</h2>
+<p>In many under-resourced legal systems—often in so-called <em>developing countries</em>—justice is slow, fragmented, and often undermined by informal practices. One curious yet widespread procedural custom involves the refusal of courts to award attorneys’ fees for the litigation required to determine the amount of attorneys’ fees in a previous case.</p>
+<p>To simplify: Imagine a lawyer wins a lawsuit (<em>Case A</em>) and then initiates a new proceeding (<em>Case B</em>) to contest the fee amount. Even if the lawyer wins <em>Case B</em>, courts frequently refuse to award fees for the work done in <em>Case B</em>, arguing that one cannot “get fees for getting fees.” This doctrine has no real statutory basis and is seldom justified in depth. It is simply treated as settled custom.</p>
+<p>This article argues that such practice is neither principled nor efficient—it violates fundamental norms of fairness, disincentivizes legal accountability, and, ironically, makes justice cheaper by making lawyers poorer.</p>
+<hr>
+<h2 id="ii-the-fallacy-of-no-fees-on-fees">II. The Fallacy of “No Fees on Fees”</h2>
+<p>The core judicial rationale in many jurisdictions can be reduced to the idea that <em>Case B</em>—a dispute over the proper fee—is not an independent legal controversy but a procedural side-effect of <em>Case A</em>. Therefore, it generates no entitlement to further fees.</p>
+<p>This logic fails in two key ways:</p>
+<ul>
+<li>
+<p><strong>It erases actual legal work</strong>: If the lawyer had to file pleadings, respond to opposition, attend hearings, and perhaps appeal a ruling in <em>Case B</em>, then real legal labor occurred. Why should that go uncompensated?</p>
+</li>
+<li>
+<p><strong>It violates fairness norms</strong>: If a lawyer must go to court to enforce or adjust their own remuneration, the legal system cannot ask them to perform that work for free—especially when the court requires a full procedural process to be followed.</p>
+</li>
+</ul>
+<hr>
+<h2 id="iii-comparative-systems-what-common-law-says">III. Comparative Systems: What Common Law Says</h2>
+<h3 id="-united-states-the-fees-on-fees-doctrine">🇺🇸 United States: The “Fees on Fees” Doctrine</h3>
+<p>U.S. federal courts, especially under statutes like Title VII of the Civil Rights Act, <strong>do allow recovery for time spent securing attorneys’ fees</strong>, recognizing that otherwise, clients and lawyers would be penalized for seeking to vindicate fee rights.</p>
+<blockquote>
+<p><em>“Time spent in establishing the entitlement to and amount of the fee is compensable.”</em>
+— <em>Commissioner, INS v. Jean, 496 U.S. 154 (1990)</em>
+<a href="https://supreme.justia.com/cases/federal/us/496/154/">Link to case</a></p></blockquote>
+<h3 id="-united-kingdom-costs-are-costs-including-fee-hearings">🇬🇧 United Kingdom: Costs Are Costs, Including Fee Hearings</h3>
+<p>While the English legal system relies heavily on the “costs follow the event” rule, <strong>fees incurred in proceedings to determine or challenge costs are themselves recoverable</strong>, unless unreasonable.</p>
+<blockquote>
+<p><em>“The costs of the costs dispute are, in principle, part of the litigation process and not excluded from the general rule.”</em>
+— <em>Cook on Costs (2022), para 37.23</em></p></blockquote>
+<hr>
+<h2 id="iv-political-and-structural-implications">IV. Political and Structural Implications</h2>
+<h3 id="1-justice-is-being-subsidized-by-those-who-deliver-it">1. Justice Is Being “Subsidized” by Those Who Deliver It</h3>
+<p>When courts refuse to award fees for fee-related litigation, they shift the cost of the legal system’s own procedures onto the shoulders of the least powerful actors—individual lawyers, especially those outside elite firms or without retainer contracts.</p>
+<p>This creates a <strong>hidden subsidy</strong>: the legal system becomes &ldquo;cheaper&rdquo; not by becoming more efficient, but by offloading its costs onto underpaid professionals.</p>
+<h3 id="2-it-discourages-the-enforcement-of-fair-compensation">2. It Discourages the Enforcement of Fair Compensation</h3>
+<p>Ironically, a system that discourages lawyers from litigating fee disputes undermines its own accountability. If no one fights low or unfair fee rulings because doing so is unpaid, <strong>bad practices become entrenched</strong>.</p>
+<h3 id="3-undermines-legal-professionalism">3. Undermines Legal Professionalism</h3>
+<p>If a legal system signals that lawyers who fight for their pay do so at their own cost, it sends a clear message: <strong>legal labor is not worth defending</strong>. That’s a dangerous precedent for the long-term integrity of any legal profession.</p>
+<hr>
+<h2 id="v-beyond-law-the-moral-economy-of-legal-work">V. Beyond Law: The Moral Economy of Legal Work</h2>
+<p>This issue is not just procedural—it’s political. It forces us to ask:</p>
+<ul>
+<li>Who gets to charge for their labor in the justice system?</li>
+<li>Why do judges get paid to decide how much lawyers should be paid, but lawyers get nothing for making their case?</li>
+<li>Is justice really “accessible” if those delivering it can’t afford to work?</li>
+</ul>
+<hr>
+<h2 id="vi-conclusion-a-false-economy">VI. Conclusion: A False Economy</h2>
+<p>The idea that refusing to compensate legal labor “makes justice more affordable” is a <strong>false economy</strong>. The cost is real—it’s simply borne by those least equipped to carry it. And when lawyers are disincentivized from enforcing their own rights, <strong>the rule of law suffers.</strong></p>
+<p>A legal system cannot ask its professionals to litigate unpaid while claiming to uphold the value of legal work.</p>
+<hr>
+<h2 id="-references">🔗 References</h2>
+<ol>
+<li>
+<p>Commissioner, INS v. Jean, 496 U.S. 154 (1990)
+<a href="https://supreme.justia.com/cases/federal/us/496/154/">https://supreme.justia.com/cases/federal/us/496/154/</a></p>
+</li>
+<li>
+<p>Cook on Costs (2022), LexisNexis Butterworths</p>
+</li>
+<li>
+<p>Alyeska Pipeline Serv. Co. v. Wilderness Society, 421 U.S. 240 (1975)
+<a href="https://supreme.justia.com/cases/federal/us/421/240/">https://supreme.justia.com/cases/federal/us/421/240/</a></p>
+</li>
+<li>
+<p>Torres, V. (2020). “Honorarios sobre honorarios.” <em>Revista La Ley</em>, LL 2020-E, 1037</p>
+</li>
+<li>
+<p>Code de procédure civile (France), art. 700
+<a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410776">https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410776</a></p>
+</li>
+<li>
+<p>Ontario Rules of Civil Procedure – Rule 57
+(Canadian cost rules regarding legal proceedings on costs)</p>
+</li>
+</ol>
+<hr>
+<blockquote>
+<p>✉️ <em>If this topic resonates with institutions like the Inter-American Development Bank (IDB), it may be time to open a broader conversation about how justice systems are funded—and who ends up paying when the system avoids paying its own.</em>
+<a href="https://blog.villalba.is">Contact the author at blog.villalba.is</a></p></blockquote>
+<hr>
+<p><strong>You’ve experienced ScholarGPT — now meet what’s next.</strong>
+<em>Scholar Deep Research Agent</em> elevates your research game with:
+🔍 350M+ trusted papers from top academic publishers, updated hourly.
+🧠 Advanced multiple AI models dig through millions of sources for pinpoint insights, fast.
+📝 Auto-generated highlights, smart notes, and visual reports
+📁 All saved directly to your AI-powered knowledge base
+ScholarGPT helped you search. Now, transform how you think.
+<a href="https://sider.ai/4i8szX2">Explore Scholar Deep Research</a></p>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>How to deal with infected Judisoft(TM) pdfs.</title>
+      <link>//localhost:1313/en/de-otros-lados/infeccion/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/en/de-otros-lados/infeccion/</guid>
+      <description><![CDATA[<p>Document status: 0.5</p>
+<p>It is not my intention to discredit Judisoft(TM) with these brief lines, which even the modest epithet <em>article</em> loosely fits. The implementation of the system is by far the most important leap forward in access to justice and a major contributor to cost reduction. It is a success in every sense of the word.</p>
+<h2 id="frequency-tfrac1t">Frequency: $$\tfrac{1}{t}$$</h2>
+<p>It is because I have intensive dealings with all the courts and intensive dealings with only a handful of lawyers that I refer more to documents emanating from the courts than to those filed by colleagues.  It is a question of frequency.</p>
+<p>I have never received an infected pdf uploaded by a colleague. In that sense, I don&rsquo;t know. Judisoft(TM) seems to have more control when someone upload a <em>pdf</em> from his <em>front-end</em>. However, all the files infected was coming from the source.</p>
+<h2 id="preliminaries">Preliminaries.</h2>
+<h3 id="are-judisoft-files-infected-with-viruses">Are Judisoft files infected with viruses?</h3>
+<p>It depends on what you mean by virus. It has suspicious or outright malicious code. But authoritative sites could give little information about it except that it &ldquo;does something&rdquo; and definitely takes up space in the traffic.</p>
+<p>Folder containing the <a href="https://bafybeiau7f4waqhoinfba5gci2ecd3hfqxjopoykvfi6cc4sgcmfihyiue.ipfs.nftstorage.link/">original file and <em>timestamps</em></a> It is only there for testing purposes, if you want to open any <em>pdf</em>, it is better to open the original, which is at:<a href="https://www.csj.gov.py/verificarDocumento/Default.aspx?c=cdecaech&amp;o=b">https://www.csj.gov.py/verificarDocumento/Default.aspx?c=cdecaech&amp;o=b</a>.</p>
+<p>El análisis <a href="https://hybrid-analysis.com/sample/d9ceea207e9dd5a0040ca8db12357f4c4a3607520ad993fe057fe84e4f24a25a/65dbb8cb7eaf4029bd001d5a">hybrid-analisys.com</a>. Note that there are files that are labeled as &ldquo;legitimate&rdquo; Adobe resources. And there are others that are not, and there are others that are definitely, I repeat, &ldquo;legitimate&rdquo; programs. It&rsquo;s a mixed bag, sometimes difficult to follow, so patience is needed to read all the documents.</p>
+<h3 id="do-they-all-have-it-or-even-the-vast-majority">Do they all have it, or even the vast majority?</h3>
+<p>No, &mdash; in my experience &mdash; very few <em>pdfs</em> are infected, given the sheer volume of them. But it is not unreasonable to think that their number is growing. In fact, the file shown here as an example seems to have been duplicated in another file; although it came from a file containing a query of mine, it was attached to another list. As we know very little about how Judisoft(TM) works, this could be another kind of bug.</p>
+<h3 id="are-they-dangerous-should-i-be-careful">Are they dangerous, should I be careful?</h3>
+<p>There are two answers:</p>
+<ul>
+<li>No. In fact, everyone lives the fantasy that they have nothing to hide from the world - while thinking of their wife.  If this is your case, please leave your ID number and bank password in the message box.</li>
+</ul>
+<p>In the other case:</p>
+<ul>
+<li>Yes.</li>
+</ul>
+<p>You could be up to no good if nobody knows what these <em>scripts</em> are doing.</p>
+<h3 id="why-is-this-happening-to-me">Why is this happening to me?</h3>
+<p>Well, let&rsquo;s see.</p>
+<h2 id="the-pdfa-plan--or-i-love-it-when-a-plan-doesnt-comes-together">The PDF/A plan &mdash; Or: I love it when a plan doesn&rsquo;t comes together!</h2>
+<p>According to the Resolution on the e-Expedient, when we upload a file from our computer, it is re-encoded into PDF/A.</p>
+<p>This does not happen.</p>
+<p>As far as the judges are concerned, it is impossible to even think of the same process, as it would invalidate the signature.</p>
+<h2 id="the-judges-were-careless">The judges were careless?</h2>
+<p>If I sign a <em>pdf</em> (who would think of signing a <em>pdf</em>? Someone who came up with the idea that text files are not sexy enough) with my electronic signature, probably not certified, the date is taken from <a href="https://sectigo.com"><strong>Sectigo</strong></a>. If judges do it, they&hellip; they take it from their PC. INTN has an NTP server.</p>
+<p>The embedded code is visible to the naked eye, but the Windows antivirus doesn&rsquo;t detect it.</p>
+<p>So no. It&rsquo;s not their fault.</p>
+<h2 id="blocking-servers-is-not-the-answer">Blocking servers is not the answer.</h2>
+<p>I don&rsquo;t have the knowledge to know what each one does, but it wouldn&rsquo;t do any good as they change or mutated or whatever.</p>
+<p>I can&rsquo;t tell you that the solution is to block <em>dns</em> requests. And I don&rsquo;t think everyone has a <em>dns</em> server running in their office. And even if they did, what good would it do? These malicious sites mutate every day.</p>
+<h2 id="y">¿Y?</h2>
+<p>I took these emergency steps</p>
+<ul>
+<li>
+<p>Disable WebRTC: you can do this with an extension that is available for a number of browsers and in a number of flavours.</p>
+</li>
+<li>
+<p>Do not allow any <em>pdf</em> files to be displayed in the browser.</p>
+</li>
+<li>
+<p>Keep the local database out of reach of the internet &ndash; if possible; the internet is everywhere.</p>
+</li>
+</ul>
+<p>I have had infected <em>pdfs</em> for printing and scanning. It&rsquo;s the only thing I can do, although I know it&rsquo;s a long shot.</p>
+<p>I can&rsquo;t do what some sites recommend:</p>
+<ul>
+<li>Disable Javascript: without JS, Judisoft is not usable and my own database is not usable.</li>
+</ul>
+<h1 id="is-there-a-political-solution">Is there a political solution?</h1>
+<p>Yes, but I don&rsquo;t see a future for it. A REST API could be written for people who want to use it to avoid traffic overhead, control access to resources and reduce costs.</p>
+<p>There will be no breach of secrecy.</p>
+<p>On the contrary, control can be improved.</p>
+<p>But&hellip; there is a complaint form that is made in <code>Google Form</code>; if there is no time to make a <code>&lt;form&gt;</code>, there will be no time to make an API.</p>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

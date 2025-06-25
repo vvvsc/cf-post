@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Validación on 0007407.xyz</title>
+    <link>//localhost:1313/tags/validaci%C3%B3n/</link>
+    <description>Recent content in Validación on 0007407.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
+    <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/validaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>Validar, pero fuera del Sistema</title>
+      <link>//localhost:1313/es/posts/validar-fuera-del-sistema/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/validar-fuera-del-sistema/</guid>
+      <description><![CDATA[<p>¿Que pasaría si&hellip; tuviéramos que reconstituir un expediente digital? Las resoluciones están firmadas por los jueces así que en más o en menos alli existe ya cierta seguridad. Y digo en más o en menos por la actual falta de timestamp. Pero&hellip; ¿Y las peticiones?</p>
+<h2 id="validación-de-documentos-judiciales-fuera-del-sistema-judisoft">Validación de documentos judiciales fuera del sistema Judisoft</h2>
+<p>La preocupación sobre cómo validar y reconstruir la autenticidad de documentos judiciales -especialmente las peticiones de abogados- en caso de que el sistema Judisoft de la Corte Suprema de Paraguay quede fuera de servicio es legítima y relevante. Actualmente, las resoluciones firmadas digitalmente ofrecen garantías de autenticidad, pero las peticiones de los abogados pueden no estar igual de protegidas.</p>
+<h3 id="estado-actual-de-la-firma-digital-y-validación">Estado actual de la firma digital y validación</h3>
+<ul>
+<li>La Corte Suprema de Justicia de Paraguay ya implementa la firma digital en varios de sus documentos, lo que otorga seguridad y confianza a los documentos electrónicos, independientemente del medio en que se compartan. Esto reduce el uso de papel y aumenta la transparencia y seguridad de los servicios judiciales<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</li>
+<li>Para verificar la autenticidad de documentos generados por el Poder Judicial, se recomienda confirmar que el dominio de descarga sea el oficial (<a href="https://www.csj.gov.py">www.csj.gov.py</a>) y corroborar visualmente la integridad del documento (colores, logos, QR, etc.)<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>.</li>
+<li>El marco legal paraguayo reconoce la validez jurídica y probatoria de los expedientes electrónicos y documentos firmados digitalmente, equiparándolos al expediente tradicional, según la Ley N° 4017/10 y su modificatoria, la Ley N° 4610/12<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>.</li>
+</ul>
+<h3 id="limitación-actual">Limitación actual</h3>
+<ul>
+<li>Si bien las resoluciones están firmadas digitalmente y pueden validarse fuera del sistema, las peticiones de los abogados no necesariamente cuentan con la misma protección, lo que podría dificultar su validación en caso de caída o desaparición del sistema Judisoft. &mdash;Piénsese en: hambruna, guerra termonuclear, colisión con objetos celestes, backups en pendrives, alzamiento en armas contra la tiranía, muerte súbita, terremotos, &ldquo;sólo quise saber que hacía <code>rm -rf ~</code>&rdquo;, etc.</li>
+</ul>
+<h2 id="mejor-manera-de-implementar-una-validación-robusta">Mejor manera de implementar una validación robusta</h2>
+<p>La Corte Suprema puede fortalecer la validación de documentos (especialmente peticiones de abogados) fuera del sistema Judisoft mediante las siguientes acciones:</p>
+<p><strong>1. Sugerir se use firma digital de todas las presentaciones electrónicas</strong></p>
+<ul>
+<li>Proponer &mdash;no hace falta que se obligue, porque cuando los colegas vean la ventaja, se acoplarán de manera espontánea&mdash; que cada escrito presentado por abogados esté firmado digitalmente con un certificado emitido por una autoridad certificadora reconocida por la Corte Suprema, o por la misma Corte Suprema &mdash; véase al respecto</li>
+</ul>
+<!-- raw HTML omitted -->
+<ul>
+<li>Esto permitiría que cualquier copia del escrito pueda ser validada de manera independiente, usando software estándar (por ejemplo, Adobe Reader, que permite verificar firmas digitales y certificados de confianza)<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>.</li>
+</ul>
+<p>Esta, que parece la solución más directa,  es en realidad la más aparatosa. Pues no considera que el Judisoft, por motivos de seguridad totalmente entendibles, despoja a cada pdf de toda información no visible. Lo que se dice, lo aplana. Sé que la acordada dice que cada pdf debe cumplir con cierto estándard, pero esto ya es exigir mucho por el momento.</p>
+<p><strong>2. Incorporar sellos de tiempo y códigos de verificación</strong></p>
+<ul>
+<li>
+<p>Además de la firma digital, agregar un sello de tiempo &mdash;
+
+
+
+<span style="color:red">ERROR: Slug 'firma-rota' no encontrado</span>
+
+&mdash; y un código QR o alfanumérico único que vincule el documento a un registro verificable, incluso fuera del sistema principal. Ahora existe uno, pero no valida nada ni siquiera dentro del Sistema.</p>
+</li>
+<li>
+<p>El QR podría llevar a una página de verificación independiente, o permitir la validación offline mediante herramientas proporcionadas por la Corte, o proporcionadas por este enorme reloj que se llama internet.</p>
+</li>
+</ul>
+<p><strong>3. Publicar e instruir sobre la verificación de firmas digitales</strong></p>
+<ul>
+<li>Proveer guías y software para que cualquier usuario pueda validar la autenticidad e integridad de los documentos descargados, aun si el sistema central no está disponible<sup id="fnref1:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>.</li>
+<li>Esto incluye la publicación de los certificados raíz &mdash;quiero decir la parte pública, naturalmente&mdash; y de autoridad de certificación de la Corte Suprema, para que puedan ser instalados y reconocidos en sistemas de validación estándar.</li>
+</ul>
+<p>Es una lástima que HUGO (el motor de la página) haga tan difícil hacer links dentro de la página porque de hecho está destacada en ella una mención a una situación similar.</p>
+<blockquote>
+<p>Postdata: 
+
+
+
+<a href="/es/posts/no-valida/">
+  No valida la firma
+</a>
+
+</p></blockquote>
+<p><strong>4. Respaldos periódicos y exportación de expedientes</strong></p>
+<ul>
+<li>Permitir y fomentar la descarga periódica de expedientes completos<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup>, en formato PDF firmado digitalmente, para que abogados y partes tengan copias de confianza almacenadas localmente. No sé por qué he escrito lo anterior. Eso no pasará. De hecho, la forma más fácil sería la de implementar un API REST como lo hace Tributación. Pero olvídalo, muchachito.</li>
+</ul>
+<h2 id="resumen-de-la-solución-propuesta">Resumen de la solución propuesta</h2>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Medida</th>
+          <th style="text-align: left">Beneficio principal</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">Firma digital optativa</td>
+          <td style="text-align: left">Autenticidad y validez independiente de la plataforma</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Sello de tiempo y código de verificación</td>
+          <td style="text-align: left">Prueba de integridad y existencia en fecha cierta</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Publicación de certificados y guías</td>
+          <td style="text-align: left">Validación accesible y transparente para cualquier usuario</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Descarga/exportación de expedientes</td>
+          <td style="text-align: left">Copias de respaldo confiables fuera del sistema central</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="coda">Coda.</h2>
+<p>La mejor manera en que la Corte Suprema de Paraguay puede asegurar la validación de las peticiones de abogados fuera del sistema Judisoft es expedir certificados de firma digital a los usuarios del sistema &mdash;esto no implica costo alguno&mdash; de todos los escritos, acompañada de mecanismos de verificación independientes (sellos de tiempo, códigos QR/códigos únicos), y facilitar la validación pública mediante la publicación de certificados y guías de uso. Así, aun si el sistema central desapareciera, los documentos conservarían su valor probatorio y podrían ser reconstruidos y validados por cualquier persona o autoridad competente<sup id="fnref1:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><sup id="fnref2:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup><sup id="fnref1:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>.</p>
+<hr>
+<h2 id="final">Final.</h2>
+<p>Pero antes de que aplaudan mi sapiencia, hay una forma mucho mejor, más efectiva, y en consonancia con la consabida tendencia al <em>secretismo</em> que tienen los estados: publicar los hashes.</p>
+<ol>
+<li><strong>Protocolo de &ldquo;huella digital inmutable&rdquo;</strong>:
+<ul>
+<li>Que cada documento judicial lleve un hash criptográfico único registrado en una blockchain pública (ej: LACChain). O en cualquiera otro, incluso la Corte podría tener la suya propia.</li>
+<li>Esto permitiría probar la existencia e integridad del documento incluso décadas después, sin depender de Judisoft.</li>
+</ul>
+</li>
+<li><strong>Auditorías ciudadanas</strong>:
+<ul>
+<li>Publicar hashes de lotes de expedientes en el portal web periódicamente (ej: cada 24 horas).</li>
+<li>Cualquier ciudadano podría verificar que su copia local coincide con el registro oficial.</li>
+</ul>
+</li>
+</ol>
+<p><strong>¿Por qué funcionaría esto?</strong> Porque convierte a cada abogado/juzgado/ciudadano en un <strong>nodo de validación independiente</strong>, creando una red antifrágil que no depende de un solo sistema centralizado.</p>
+<p>Sólo los hashes habría que publicar, no pesarían nada, no revelarían nada del contenido del documento, y sin embargo estaría en una blockchain como la indicada. Claro que mi elección sería BTC. Pero LACChain me parece un medio paso seguro.</p>
+<!-- raw HTML omitted -->
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p><a href="https://www.pj.gov.py/notas/20659-la-direccion-general-de-registros-publicos-ya-cuenta-con-emision-de-certificado-de-firma-digital">https://www.pj.gov.py/notas/20659-la-direccion-general-de-registros-publicos-ya-cuenta-con-emision-de-certificado-de-firma-digital</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p><a href="https://www.pj.gov.py/notas/24992-verificacion-de-documentos-generados-por-dependencias-del-poder-judicial">https://www.pj.gov.py/notas/24992-verificacion-de-documentos-generados-por-dependencias-del-poder-judicial</a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p><a href="https://www.acraiz.gov.py/adjunt/Instituciones/CSJ/Guia_de_uso_tramitacion_judicial_electronica_rol_abogado.pdf">https://www.acraiz.gov.py/adjunt/Instituciones/CSJ/Guia_de_uso_tramitacion_judicial_electronica_rol_abogado.pdf</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p><a href="https://old.pjn.gov.ar/publico/FE/INSTRUCTIVOINSTALACIONCERTIFICADOS.pdf">https://old.pjn.gov.ar/publico/FE/INSTRUCTIVOINSTALACIONCERTIFICADOS.pdf</a>&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref2:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5">
+<p>Hojas del árbol caídas / juguetes del viento son / las ilusiones perdidas / son hojas, ay, desprendidas / del árbol del corazón.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

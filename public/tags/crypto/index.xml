@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Crypto on 0007407.xyz</title>
+    <link>//localhost:1313/tags/crypto/</link>
+    <description>Recent content in Crypto on 0007407.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/crypto/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>No valida la firma</title>
+      <link>//localhost:1313/es/posts/no-valida/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/es/posts/no-valida/</guid>
+      <description><![CDATA[<h2 id="no-veo-el-coso-ese-en-mi-pantalla-acá"><em>No veo el coso ese en mi pantalla, acá.</em></h2>
+<p>Más de uno de nosotros se habrá fijado que los oficios internos o a instituciones con las cuales el PJ tiene acuerdos, está firmado digitalmente pero en nuestras pcs dice que no valida.</p>
+<p>Era una especie de <code>cosa nostra</code> cuando los oficios corrían internamente, porque sabemos que las firmas son tales aunque no aparezca en la pantalla que lo son.</p>
+<p>Pero la Corte Suprema firmo acuerdos con otros entes estatales las que, al menos de alguna de ellas, debería saber de que se trata una firma digital porque&hellip; es su trabajo.</p>
+<p>Muchos Juzgados han vuelto al papel en estos casos. Qué se le va a hacer.</p>
+<h2 id="qué-es-lo-que-avisa-el-programa">¿Qué es lo que avisa el programa?</h2>
+<p>Cuando uno ve que una firma valida, lo que debe leer es que la misma es consistente consigo misma y con el documento. Si uno se fija dice que el documento no fue alterado.</p>
+<p>Pero fecha ya no nos da la empresa que provee los servicios. Cuando que implementarlo es escribir una línea de código.</p>
+<p>Pero además de eso da cuenta de si la firma misma esta <em>completa</em>. Completa en el sentido de la <em>SSL</em>. Es decir si tiene una cadena discernible de firmas. Y la de los actuarios no la tienen porque por alguna razón al producirselos se pasó por alto ese detalle.</p>
+<p>Son tres firmas, el de los Actuarios, el que usan para los oficios concretamente, tiene dos.</p>
+<h2 id="we-are-back-on-the-chain-gang">We are back on the chain gang.</h2>
+<p>Uno puede leer un año entero la documentación del SSL y no enterarse de nada. Su servidor hizo un esquema básico del que se usa para firmar. Es altamente centralizado y&hellip; creo que funciona, funciona mejor que el GPG que no es centralizado pero&hellip; <code>Full stop.</code></p>
+<div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
+            height: 0; overflow: hidden;">
+    <iframe src="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/QmR2TosQ2d4T6XbHTz1bh78BEH3ctQXPszab5kQAeUofJb" 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+            frameborder="0">
+        Your browser does not support iframes.
+    </iframe>
+</div>
+
+<p>Este artículo se escribirá por partes porque me doy cuenta de que el dibujo no servirá mucho sólo.</p>
+<p>Alguno se podría preguntar si la CSJ no siendo una autoridad reconocida puede emitir certificados&hellip; La respuesta corta es sí. Como cualquier otra persona, tiene capacidad de validar. Es más, una posición privilegiada para hacerlo.</p>
+<p>Sí podría serlo el exponer los pasos para hacerse de una firma digital <strong>no cualificada</strong> que al final del día, es lo mismo que una.</p>
+<h2 id="certificador-no-autorizado">Certificador no autorizado</h2>
+<p>La certificacación expedida por un certificador no autorizado no es que no sea válida. Bajo ciertas condiciones es tan válida como la expedida por uno autorizado.</p>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>
