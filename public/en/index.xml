@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Wilson Villalba on 0007407.xyz</title>
-    <link>/en/</link>
+    <link>//localhost:1313/en/</link>
     <description>Recent content in Wilson Villalba on 0007407.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" /><icon>/logo.svg</icon>
+    <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
     
     
     <item>
       <title>Can Lawyers Get Paid for Fighting to Get Paid?</title>
-      <link>/en/posts/can-lawyers-get-paid/</link>
+      <link>//localhost:1313/en/posts/can-lawyers-get-paid/</link>
       <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>/en/posts/can-lawyers-get-paid/</guid>
+      <guid>//localhost:1313/en/posts/can-lawyers-get-paid/</guid>
       <description><![CDATA[<h2 id="i-introduction">I. Introduction</h2>
 <p>In many under-resourced legal systems—often in so-called <em>developing countries</em>—justice is slow, fragmented, and often undermined by informal practices. One curious yet widespread procedural custom involves the refusal of courts to award attorneys’ fees for the litigation required to determine the amount of attorneys’ fees in a previous case.</p>
 <p>To simplify: Imagine a lawyer wins a lawsuit (<em>Case A</em>) and then initiates a new proceeding (<em>Case B</em>) to contest the fee amount. Even if the lawyer wins <em>Case B</em>, courts frequently refuse to award fees for the work done in <em>Case B</em>, arguing that one cannot “get fees for getting fees.” This doctrine has no real statutory basis and is seldom justified in depth. It is simply treated as settled custom.</p>
@@ -112,10 +112,10 @@ ScholarGPT helped you search. Now, transform how you think.
     
     <item>
       <title>How to deal with infected Judisoft(TM) pdfs.</title>
-      <link>/en/de-otros-lados/infeccion/</link>
+      <link>//localhost:1313/en/de-otros-lados/infeccion/</link>
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>/en/de-otros-lados/infeccion/</guid>
+      <guid>//localhost:1313/en/de-otros-lados/infeccion/</guid>
       <description><![CDATA[<p>Document status: 0.5</p>
 <p>It is not my intention to discredit Judisoft(TM) with these brief lines, which even the modest epithet <em>article</em> loosely fits. The implementation of the system is by far the most important leap forward in access to justice and a major contributor to cost reduction. It is a success in every sense of the word.</p>
 <h2 id="frequency-tfrac1t">Frequency: $$\tfrac{1}{t}$$</h2>
