@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/pac/Public/cf-post",
+	"sourceRoot": "/home/gmk/Public/vvvi/cf-post",
 	"sources": [
 		"assets/scss/style.scss"
 	],
