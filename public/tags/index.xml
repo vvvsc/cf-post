@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Tags on 0007407.xyz</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on 0007407.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" /><icon>/logo.svg</icon>
     
     
     <item>
       <title>Problemas</title>
-      <link>//localhost:1313/tags/problemas/</link>
+      <link>/tags/problemas/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/problemas/</guid>
+      <guid>/tags/problemas/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -23,10 +23,10 @@
     
     <item>
       <title>Seguimiento</title>
-      <link>//localhost:1313/tags/seguimiento/</link>
+      <link>/tags/seguimiento/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/seguimiento/</guid>
+      <guid>/tags/seguimiento/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -35,10 +35,10 @@
     
     <item>
       <title>Escritos</title>
-      <link>//localhost:1313/tags/escritos/</link>
+      <link>/tags/escritos/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/escritos/</guid>
+      <guid>/tags/escritos/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -47,10 +47,10 @@
     
     <item>
       <title>Modelos</title>
-      <link>//localhost:1313/tags/modelos/</link>
+      <link>/tags/modelos/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/modelos/</guid>
+      <guid>/tags/modelos/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -59,10 +59,10 @@
     
     <item>
       <title>Blockchain</title>
-      <link>//localhost:1313/tags/blockchain/</link>
+      <link>/tags/blockchain/</link>
       <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/blockchain/</guid>
+      <guid>/tags/blockchain/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -71,10 +71,10 @@
     
     <item>
       <title>Validación</title>
-      <link>//localhost:1313/tags/validaci%C3%B3n/</link>
+      <link>/tags/validaci%C3%B3n/</link>
       <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/validaci%C3%B3n/</guid>
+      <guid>/tags/validaci%C3%B3n/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -83,10 +83,10 @@
     
     <item>
       <title>Crypto</title>
-      <link>//localhost:1313/tags/crypto/</link>
+      <link>/tags/crypto/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/crypto/</guid>
+      <guid>/tags/crypto/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -95,10 +95,10 @@
     
     <item>
       <title>Digital</title>
-      <link>//localhost:1313/tags/digital/</link>
+      <link>/tags/digital/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/digital/</guid>
+      <guid>/tags/digital/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -107,10 +107,10 @@
     
     <item>
       <title>Firma</title>
-      <link>//localhost:1313/tags/firma/</link>
+      <link>/tags/firma/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/firma/</guid>
+      <guid>/tags/firma/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -119,10 +119,10 @@
     
     <item>
       <title>Matemáticas</title>
-      <link>//localhost:1313/tags/matem%C3%A1ticas/</link>
+      <link>/tags/matem%C3%A1ticas/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/matem%C3%A1ticas/</guid>
+      <guid>/tags/matem%C3%A1ticas/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -131,10 +131,10 @@
     
     <item>
       <title>Links</title>
-      <link>//localhost:1313/tags/links/</link>
+      <link>/tags/links/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/links/</guid>
+      <guid>/tags/links/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -143,10 +143,10 @@
     
     <item>
       <title>Recursos</title>
-      <link>//localhost:1313/tags/recursos/</link>
+      <link>/tags/recursos/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/recursos/</guid>
+      <guid>/tags/recursos/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -155,10 +155,10 @@
     
     <item>
       <title>32</title>
-      <link>//localhost:1313/tags/32/</link>
+      <link>/tags/32/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/32/</guid>
+      <guid>/tags/32/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -167,10 +167,10 @@
     
     <item>
       <title>Titulos</title>
-      <link>//localhost:1313/tags/titulos/</link>
+      <link>/tags/titulos/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/titulos/</guid>
+      <guid>/tags/titulos/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -179,10 +179,10 @@
     
     <item>
       <title>Valores</title>
-      <link>//localhost:1313/tags/valores/</link>
+      <link>/tags/valores/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/valores/</guid>
+      <guid>/tags/valores/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -191,10 +191,10 @@
     
     <item>
       <title>Denuncia</title>
-      <link>//localhost:1313/tags/denuncia/</link>
+      <link>/tags/denuncia/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/denuncia/</guid>
+      <guid>/tags/denuncia/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -203,10 +203,10 @@
     
     <item>
       <title>MP</title>
-      <link>//localhost:1313/tags/mp/</link>
+      <link>/tags/mp/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/mp/</guid>
+      <guid>/tags/mp/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -215,10 +215,10 @@
     
     <item>
       <title>Buscador</title>
-      <link>//localhost:1313/tags/buscador/</link>
+      <link>/tags/buscador/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/buscador/</guid>
+      <guid>/tags/buscador/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -227,10 +227,10 @@
     
     <item>
       <title>Resoluciones</title>
-      <link>//localhost:1313/tags/resoluciones/</link>
+      <link>/tags/resoluciones/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/resoluciones/</guid>
+      <guid>/tags/resoluciones/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -239,10 +239,10 @@
     
     <item>
       <title>Userscript</title>
-      <link>//localhost:1313/tags/userscript/</link>
+      <link>/tags/userscript/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/userscript/</guid>
+      <guid>/tags/userscript/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -251,10 +251,10 @@
     
     <item>
       <title>Web</title>
-      <link>//localhost:1313/tags/web/</link>
+      <link>/tags/web/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/web/</guid>
+      <guid>/tags/web/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -263,10 +263,10 @@
     
     <item>
       <title>Caducidad</title>
-      <link>//localhost:1313/tags/caducidad/</link>
+      <link>/tags/caducidad/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/caducidad/</guid>
+      <guid>/tags/caducidad/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -275,10 +275,10 @@
     
     <item>
       <title>Instancia</title>
-      <link>//localhost:1313/tags/instancia/</link>
+      <link>/tags/instancia/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/instancia/</guid>
+      <guid>/tags/instancia/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -287,10 +287,10 @@
     
     <item>
       <title>Proof:partial</title>
-      <link>//localhost:1313/tags/proofpartial/</link>
+      <link>/tags/proofpartial/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/proofpartial/</guid>
+      <guid>/tags/proofpartial/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -299,10 +299,10 @@
     
     <item>
       <title>Sources:ongoing</title>
-      <link>//localhost:1313/tags/sourcesongoing/</link>
+      <link>/tags/sourcesongoing/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/sourcesongoing/</guid>
+      <guid>/tags/sourcesongoing/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -311,10 +311,10 @@
     
     <item>
       <title>Recusación</title>
-      <link>//localhost:1313/tags/recusaci%C3%B3n/</link>
+      <link>/tags/recusaci%C3%B3n/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/recusaci%C3%B3n/</guid>
+      <guid>/tags/recusaci%C3%B3n/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -323,10 +323,10 @@
     
     <item>
       <title>Brujería</title>
-      <link>//localhost:1313/tags/brujer%C3%ADa/</link>
+      <link>/tags/brujer%C3%ADa/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/brujer%C3%ADa/</guid>
+      <guid>/tags/brujer%C3%ADa/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -335,10 +335,10 @@
     
     <item>
       <title>Electrónica</title>
-      <link>//localhost:1313/tags/electr%C3%B3nica/</link>
+      <link>/tags/electr%C3%B3nica/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/electr%C3%B3nica/</guid>
+      <guid>/tags/electr%C3%B3nica/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -347,10 +347,10 @@
     
     <item>
       <title>Wrong</title>
-      <link>//localhost:1313/tags/wrong/</link>
+      <link>/tags/wrong/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/wrong/</guid>
+      <guid>/tags/wrong/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -359,10 +359,10 @@
     
     <item>
       <title>Competencia</title>
-      <link>//localhost:1313/tags/competencia/</link>
+      <link>/tags/competencia/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/competencia/</guid>
+      <guid>/tags/competencia/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -371,10 +371,10 @@
     
     <item>
       <title>Cuestion</title>
-      <link>//localhost:1313/tags/cuestion/</link>
+      <link>/tags/cuestion/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/cuestion/</guid>
+      <guid>/tags/cuestion/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -383,10 +383,10 @@
     
     <item>
       <title>Copias</title>
-      <link>//localhost:1313/tags/copias/</link>
+      <link>/tags/copias/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/copias/</guid>
+      <guid>/tags/copias/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -395,10 +395,10 @@
     
     <item>
       <title>Expediente</title>
-      <link>//localhost:1313/tags/expediente/</link>
+      <link>/tags/expediente/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/expediente/</guid>
+      <guid>/tags/expediente/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -407,10 +407,10 @@
     
     <item>
       <title>Finexpar</title>
-      <link>//localhost:1313/tags/finexpar/</link>
+      <link>/tags/finexpar/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/finexpar/</guid>
+      <guid>/tags/finexpar/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -419,10 +419,10 @@
     
     <item>
       <title>E-Firma</title>
-      <link>//localhost:1313/tags/e-firma/</link>
+      <link>/tags/e-firma/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/e-firma/</guid>
+      <guid>/tags/e-firma/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -431,10 +431,10 @@
     
     <item>
       <title>Timestamp</title>
-      <link>//localhost:1313/tags/timestamp/</link>
+      <link>/tags/timestamp/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/timestamp/</guid>
+      <guid>/tags/timestamp/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -443,10 +443,10 @@
     
     <item>
       <title>Alzada</title>
-      <link>//localhost:1313/tags/alzada/</link>
+      <link>/tags/alzada/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/alzada/</guid>
+      <guid>/tags/alzada/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -455,10 +455,10 @@
     
     <item>
       <title>Fundar</title>
-      <link>//localhost:1313/tags/fundar/</link>
+      <link>/tags/fundar/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/fundar/</guid>
+      <guid>/tags/fundar/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -467,10 +467,10 @@
     
     <item>
       <title>Derecho</title>
-      <link>//localhost:1313/tags/derecho/</link>
+      <link>/tags/derecho/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/derecho/</guid>
+      <guid>/tags/derecho/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -479,10 +479,10 @@
     
     <item>
       <title>Error</title>
-      <link>//localhost:1313/tags/error/</link>
+      <link>/tags/error/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/error/</guid>
+      <guid>/tags/error/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -491,10 +491,10 @@
     
     <item>
       <title>E-Expediente</title>
-      <link>//localhost:1313/tags/e-expediente/</link>
+      <link>/tags/e-expediente/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/e-expediente/</guid>
+      <guid>/tags/e-expediente/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -503,10 +503,10 @@
     
     <item>
       <title>Fojas</title>
-      <link>//localhost:1313/tags/fojas/</link>
+      <link>/tags/fojas/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/fojas/</guid>
+      <guid>/tags/fojas/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -515,10 +515,10 @@
     
     <item>
       <title>Judisoft</title>
-      <link>//localhost:1313/tags/judisoft/</link>
+      <link>/tags/judisoft/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/judisoft/</guid>
+      <guid>/tags/judisoft/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -527,10 +527,10 @@
     
     <item>
       <title>Math</title>
-      <link>//localhost:1313/tags/math/</link>
+      <link>/tags/math/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/math/</guid>
+      <guid>/tags/math/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -539,10 +539,10 @@
     
     <item>
       <title>Qr</title>
-      <link>//localhost:1313/tags/qr/</link>
+      <link>/tags/qr/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/qr/</guid>
+      <guid>/tags/qr/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -551,10 +551,10 @@
     
     <item>
       <title>Jem</title>
-      <link>//localhost:1313/tags/jem/</link>
+      <link>/tags/jem/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/jem/</guid>
+      <guid>/tags/jem/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -563,10 +563,10 @@
     
     <item>
       <title>Nota</title>
-      <link>//localhost:1313/tags/nota/</link>
+      <link>/tags/nota/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/nota/</guid>
+      <guid>/tags/nota/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -575,10 +575,10 @@
     
     <item>
       <title>Recusar</title>
-      <link>//localhost:1313/tags/recusar/</link>
+      <link>/tags/recusar/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/recusar/</guid>
+      <guid>/tags/recusar/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -587,10 +587,10 @@
     
     <item>
       <title>Filosofia</title>
-      <link>//localhost:1313/tags/filosofia/</link>
+      <link>/tags/filosofia/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/filosofia/</guid>
+      <guid>/tags/filosofia/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -599,10 +599,10 @@
     
     <item>
       <title>Sistemas</title>
-      <link>//localhost:1313/tags/sistemas/</link>
+      <link>/tags/sistemas/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/sistemas/</guid>
+      <guid>/tags/sistemas/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -611,10 +611,10 @@
     
     <item>
       <title>No Redactado</title>
-      <link>//localhost:1313/tags/no-redactado/</link>
+      <link>/tags/no-redactado/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/no-redactado/</guid>
+      <guid>/tags/no-redactado/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -623,10 +623,10 @@
     
     <item>
       <title>Plra</title>
-      <link>//localhost:1313/tags/plra/</link>
+      <link>/tags/plra/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/plra/</guid>
+      <guid>/tags/plra/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -635,10 +635,10 @@
     
     <item>
       <title>Tsje</title>
-      <link>//localhost:1313/tags/tsje/</link>
+      <link>/tags/tsje/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/tsje/</guid>
+      <guid>/tags/tsje/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -647,10 +647,10 @@
     
     <item>
       <title>Causalidad</title>
-      <link>//localhost:1313/tags/causalidad/</link>
+      <link>/tags/causalidad/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/causalidad/</guid>
+      <guid>/tags/causalidad/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -659,10 +659,10 @@
     
     <item>
       <title>Consequences Will Never Be the Same</title>
-      <link>//localhost:1313/tags/consequences-will-never-be-the-same/</link>
+      <link>/tags/consequences-will-never-be-the-same/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/consequences-will-never-be-the-same/</guid>
+      <guid>/tags/consequences-will-never-be-the-same/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -671,10 +671,10 @@
     
     <item>
       <title>Compuesto</title>
-      <link>//localhost:1313/tags/compuesto/</link>
+      <link>/tags/compuesto/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/compuesto/</guid>
+      <guid>/tags/compuesto/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -683,10 +683,10 @@
     
     <item>
       <title>ICC</title>
-      <link>//localhost:1313/tags/icc/</link>
+      <link>/tags/icc/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/icc/</guid>
+      <guid>/tags/icc/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -695,10 +695,10 @@
     
     <item>
       <title>Interés</title>
-      <link>//localhost:1313/tags/inter%C3%A9s/</link>
+      <link>/tags/inter%C3%A9s/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/inter%C3%A9s/</guid>
+      <guid>/tags/inter%C3%A9s/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -707,10 +707,10 @@
     
     <item>
       <title>Interés Compuesto Contínuo</title>
-      <link>//localhost:1313/tags/inter%C3%A9s-compuesto-cont%C3%ADnuo/</link>
+      <link>/tags/inter%C3%A9s-compuesto-cont%C3%ADnuo/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/inter%C3%A9s-compuesto-cont%C3%ADnuo/</guid>
+      <guid>/tags/inter%C3%A9s-compuesto-cont%C3%ADnuo/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -719,10 +719,10 @@
     
     <item>
       <title>Superintendencia</title>
-      <link>//localhost:1313/tags/superintendencia/</link>
+      <link>/tags/superintendencia/</link>
       <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/superintendencia/</guid>
+      <guid>/tags/superintendencia/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -731,10 +731,10 @@
     
     <item>
       <title>Meridian</title>
-      <link>//localhost:1313/tags/meridian/</link>
+      <link>/tags/meridian/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/meridian/</guid>
+      <guid>/tags/meridian/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -743,10 +743,10 @@
     
     <item>
       <title>Ejecución</title>
-      <link>//localhost:1313/tags/ejecuci%C3%B3n/</link>
+      <link>/tags/ejecuci%C3%B3n/</link>
       <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/ejecuci%C3%B3n/</guid>
+      <guid>/tags/ejecuci%C3%B3n/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -755,10 +755,10 @@
     
     <item>
       <title>Honorarios</title>
-      <link>//localhost:1313/tags/honorarios/</link>
+      <link>/tags/honorarios/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/honorarios/</guid>
+      <guid>/tags/honorarios/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -767,10 +767,10 @@
     
     <item>
       <title>Pre-Print</title>
-      <link>//localhost:1313/tags/pre-print/</link>
+      <link>/tags/pre-print/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/pre-print/</guid>
+      <guid>/tags/pre-print/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -779,10 +779,10 @@
     
     <item>
       <title>Acción Causal</title>
-      <link>//localhost:1313/tags/acci%C3%B3n-causal/</link>
+      <link>/tags/acci%C3%B3n-causal/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/acci%C3%B3n-causal/</guid>
+      <guid>/tags/acci%C3%B3n-causal/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -791,10 +791,10 @@
     
     <item>
       <title>Nonsense</title>
-      <link>//localhost:1313/tags/nonsense/</link>
+      <link>/tags/nonsense/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/nonsense/</guid>
+      <guid>/tags/nonsense/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -803,10 +803,10 @@
     
     <item>
       <title>Interés Francés</title>
-      <link>//localhost:1313/tags/inter%C3%A9s-franc%C3%A9s/</link>
+      <link>/tags/inter%C3%A9s-franc%C3%A9s/</link>
       <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/inter%C3%A9s-franc%C3%A9s/</guid>
+      <guid>/tags/inter%C3%A9s-franc%C3%A9s/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -815,10 +815,10 @@
     
     <item>
       <title>Diligencias</title>
-      <link>//localhost:1313/tags/diligencias/</link>
+      <link>/tags/diligencias/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/diligencias/</guid>
+      <guid>/tags/diligencias/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -827,10 +827,10 @@
     
     <item>
       <title>Preparatorias</title>
-      <link>//localhost:1313/tags/preparatorias/</link>
+      <link>/tags/preparatorias/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/preparatorias/</guid>
+      <guid>/tags/preparatorias/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -839,10 +839,10 @@
     
     <item>
       <title>Regulacion</title>
-      <link>//localhost:1313/tags/regulacion/</link>
+      <link>/tags/regulacion/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/regulacion/</guid>
+      <guid>/tags/regulacion/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -851,10 +851,10 @@
     
     <item>
       <title>Hechos Notorios</title>
-      <link>//localhost:1313/tags/hechos-notorios/</link>
+      <link>/tags/hechos-notorios/</link>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/hechos-notorios/</guid>
+      <guid>/tags/hechos-notorios/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -863,10 +863,10 @@
     
     <item>
       <title>Saber</title>
-      <link>//localhost:1313/tags/saber/</link>
+      <link>/tags/saber/</link>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/saber/</guid>
+      <guid>/tags/saber/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -875,10 +875,10 @@
     
     <item>
       <title>1236</title>
-      <link>//localhost:1313/tags/1236/</link>
+      <link>/tags/1236/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/1236/</guid>
+      <guid>/tags/1236/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -887,10 +887,10 @@
     
     <item>
       <title>Regulación</title>
-      <link>//localhost:1313/tags/regulaci%C3%B3n/</link>
+      <link>/tags/regulaci%C3%B3n/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/regulaci%C3%B3n/</guid>
+      <guid>/tags/regulaci%C3%B3n/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -899,10 +899,10 @@
     
     <item>
       <title>Monto</title>
-      <link>//localhost:1313/tags/monto/</link>
+      <link>/tags/monto/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/monto/</guid>
+      <guid>/tags/monto/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -911,10 +911,10 @@
     
     <item>
       <title>Mecdigo</title>
-      <link>//localhost:1313/tags/mecdigo/</link>
+      <link>/tags/mecdigo/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/mecdigo/</guid>
+      <guid>/tags/mecdigo/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -923,10 +923,10 @@
     
     <item>
       <title>Nota Ministerial</title>
-      <link>//localhost:1313/tags/nota-ministerial/</link>
+      <link>/tags/nota-ministerial/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/nota-ministerial/</guid>
+      <guid>/tags/nota-ministerial/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -935,10 +935,10 @@
     
     <item>
       <title>Poder Para Vender</title>
-      <link>//localhost:1313/tags/poder-para-vender/</link>
+      <link>/tags/poder-para-vender/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/poder-para-vender/</guid>
+      <guid>/tags/poder-para-vender/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -947,10 +947,10 @@
     
     <item>
       <title>State-of-the-Times</title>
-      <link>//localhost:1313/tags/state-of-the-times/</link>
+      <link>/tags/state-of-the-times/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/state-of-the-times/</guid>
+      <guid>/tags/state-of-the-times/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -959,10 +959,10 @@
     
     <item>
       <title>Redactado</title>
-      <link>//localhost:1313/tags/redactado/</link>
+      <link>/tags/redactado/</link>
       <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/redactado/</guid>
+      <guid>/tags/redactado/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -971,10 +971,10 @@
     
     <item>
       <title>Tesis</title>
-      <link>//localhost:1313/tags/tesis/</link>
+      <link>/tags/tesis/</link>
       <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/tesis/</guid>
+      <guid>/tags/tesis/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -983,10 +983,10 @@
     
     <item>
       <title>Inconstitucionalidad</title>
-      <link>//localhost:1313/tags/inconstitucionalidad/</link>
+      <link>/tags/inconstitucionalidad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/inconstitucionalidad/</guid>
+      <guid>/tags/inconstitucionalidad/</guid>
       <description><![CDATA[]]></description>
       
     </item>

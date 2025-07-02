@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Firma on 0007407.xyz</title>
-    <link>//localhost:1313/tags/firma/</link>
+    <link>/tags/firma/</link>
     <description>Recent content in Firma on 0007407.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/firma/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/firma/index.xml" rel="self" type="application/rss+xml" /><icon>/logo.svg</icon>
     
     
     <item>
       <title>No valida la firma</title>
-      <link>//localhost:1313/es/posts/no-valida/</link>
+      <link>/es/posts/no-valida/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/no-valida/</guid>
+      <guid>/es/posts/no-valida/</guid>
       <description><![CDATA[<h2 id="no-veo-el-coso-ese-en-mi-pantalla-acá"><em>No veo el coso ese en mi pantalla, acá.</em></h2>
 <p>Más de uno de nosotros se habrá fijado que los oficios internos o a instituciones con las cuales el PJ tiene acuerdos, está firmado digitalmente pero en nuestras pcs dice que no valida.</p>
 <p>Era una especie de <code>cosa nostra</code> cuando los oficios corrían internamente, porque sabemos que las firmas son tales aunque no aparezca en la pantalla que lo son.</p>
@@ -49,10 +49,10 @@
     
     <item>
       <title>Mi vieja firma ya no es la que era.</title>
-      <link>//localhost:1313/es/posts/my-old-gray-mare/</link>
+      <link>/es/posts/my-old-gray-mare/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/my-old-gray-mare/</guid>
+      <guid>/es/posts/my-old-gray-mare/</guid>
       <description><![CDATA[<p>Estos son comentarios sobre un post local sobre la firma electrónica que está tan mal que uno no puede sino replicar un poco. No voy a señalar la fuente a menos que me lo indiquen.</p>
 <h2 id="sé-específico">Sé específico.</h2>
 <blockquote>
@@ -81,10 +81,10 @@
     
     <item>
       <title>Timestampi, qu&#39;est-ce que c&#39;est?</title>
-      <link>//localhost:1313/es/posts/your-e-signature-is-broken/</link>
+      <link>/es/posts/your-e-signature-is-broken/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/your-e-signature-is-broken/</guid>
+      <guid>/es/posts/your-e-signature-is-broken/</guid>
       <description><![CDATA[<p>Las siguientes líneas cargan con dos o tres simplificaciones, porque entiendo que su extensión implican algo más que el discurso propio del derecho. Anoto que la e-sign está definida por sumas y por potenciaciones a números primos muy altos; basta saber eso para conocer la naturaleza de lo que elido.</p>
 <ol>
 <li>

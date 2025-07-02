@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Crypto on 0007407.xyz</title>
-    <link>//localhost:1313/tags/crypto/</link>
+    <link>/tags/crypto/</link>
     <description>Recent content in Crypto on 0007407.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/crypto/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/crypto/index.xml" rel="self" type="application/rss+xml" /><icon>/logo.svg</icon>
     
     
     <item>
       <title>No valida la firma</title>
-      <link>//localhost:1313/es/posts/no-valida/</link>
+      <link>/es/posts/no-valida/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/no-valida/</guid>
+      <guid>/es/posts/no-valida/</guid>
       <description><![CDATA[<h2 id="no-veo-el-coso-ese-en-mi-pantalla-acá"><em>No veo el coso ese en mi pantalla, acá.</em></h2>
 <p>Más de uno de nosotros se habrá fijado que los oficios internos o a instituciones con las cuales el PJ tiene acuerdos, está firmado digitalmente pero en nuestras pcs dice que no valida.</p>
 <p>Era una especie de <code>cosa nostra</code> cuando los oficios corrían internamente, porque sabemos que las firmas son tales aunque no aparezca en la pantalla que lo son.</p>

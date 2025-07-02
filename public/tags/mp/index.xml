@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>MP on 0007407.xyz</title>
-    <link>//localhost:1313/tags/mp/</link>
+    <link>/tags/mp/</link>
     <description>Recent content in MP on 0007407.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/mp/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/mp/index.xml" rel="self" type="application/rss+xml" /><icon>/logo.svg</icon>
     
     
     <item>
       <title>Una liquidación para no usar.</title>
-      <link>//localhost:1313/es/modelos/a-leer-se-aprende-en-la-casa/</link>
+      <link>/es/modelos/a-leer-se-aprende-en-la-casa/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/modelos/a-leer-se-aprende-en-la-casa/</guid>
+      <guid>/es/modelos/a-leer-se-aprende-en-la-casa/</guid>
       <description><![CDATA[<blockquote>
 <p>Esta es una liquidación para NO USAR. Algo habrá que hacer sobre el tema de los honorarios de los abogados los cuales se regulan cada día en menos. La liquidación que sigue fue rechazada. Pensar en apelar la resolución correspondiente, ni se me cruzó por la cabeza.
 Es una lástima que los burdeles hayan pasado de moda; toco lo suficientemente mal el piano como para ganarme la vida tocando en lugar como ese.
@@ -36,10 +36,10 @@ Hubiera puesto a continuación la resolución. Pero sería como culpar a la juez
     
     <item>
       <title>Una liquidación para no usar.</title>
-      <link>//localhost:1313/showcase/a-leer-se-aprende-en-la-casa/</link>
+      <link>/showcase/a-leer-se-aprende-en-la-casa/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/showcase/a-leer-se-aprende-en-la-casa/</guid>
+      <guid>/showcase/a-leer-se-aprende-en-la-casa/</guid>
       <description><![CDATA[<blockquote>
 <p>Esta es una liquidación para NO USAR. Algo habrá que hacer sobre el tema de los honorarios de los abogados los cuales se regulan cada día en menos. La liquidación que sigue fue rechazada. Pensar en apelar la resolución correspondiente, ni se me cruzó por la cabeza.
 Es una lástima que los burdeles hayan pasado de moda; toco lo suficientemente mal el piano como para ganarme la vida tocando en lugar como ese.
@@ -61,10 +61,10 @@ Hubiera puesto a continuación la resolución. Pero sería como culpar a la juez
     
     <item>
       <title>Denuncia ante el Ministerio Público</title>
-      <link>//localhost:1313/es/modelos/denuncia-penal/</link>
+      <link>/es/modelos/denuncia-penal/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/modelos/denuncia-penal/</guid>
+      <guid>/es/modelos/denuncia-penal/</guid>
       <description><![CDATA[<p>1</p>
 <hr>
 <p>Objeto: Formular denuncia penal contra persona innominada por hechos que

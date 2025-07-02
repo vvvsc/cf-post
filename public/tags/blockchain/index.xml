@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Blockchain on 0007407.xyz</title>
-    <link>//localhost:1313/tags/blockchain/</link>
+    <link>/tags/blockchain/</link>
     <description>Recent content in Blockchain on 0007407.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/blockchain/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/blockchain/index.xml" rel="self" type="application/rss+xml" /><icon>/logo.svg</icon>
     
     
     <item>
       <title>Validar ---pero fuera del Sistema</title>
-      <link>//localhost:1313/es/posts/validar-fuera-del-sistema/</link>
+      <link>/es/posts/validar-fuera-del-sistema/</link>
       <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/posts/validar-fuera-del-sistema/</guid>
+      <guid>/es/posts/validar-fuera-del-sistema/</guid>
       <description><![CDATA[<p>¿Que pasaría si&hellip; tuviéramos que reconstituir un expediente digital? Las resoluciones están firmadas por los jueces así que en más o en menos alli existe ya cierta seguridad. Y digo en más o en menos por la actual falta de timestamp. Pero&hellip; ¿Y las peticiones?</p>
 <h2 id="validación-de-documentos-judiciales-fuera-del-sistema-judisoft">Validación de documentos judiciales fuera del sistema Judisoft</h2>
 <p>La preocupación sobre cómo validar y reconstruir la autenticidad de documentos judiciales -especialmente las peticiones de abogados- en caso de que el sistema Judisoft de la Corte Suprema de Paraguay quede fuera de servicio es legítima y relevante. Actualmente, las resoluciones firmadas digitalmente ofrecen garantías de autenticidad, pero las peticiones de los abogados pueden no estar igual de protegidas.</p>

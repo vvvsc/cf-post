@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Jurisprudencia on 0007407.xyz</title>
-    <link>//localhost:1313/juris/</link>
+    <link>/juris/</link>
     <description>Recent content in Jurisprudencia on 0007407.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Algunos derechos reservados - [GPL3.0](https://post.villalba.is/license)</copyright>
-    <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/juris/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="/juris/index.xml" rel="self" type="application/rss+xml" /><icon>/logo.svg</icon>
     
     
     <item>
       <title>Daño Moral</title>
-      <link>//localhost:1313/es/juris/dano-moral/</link>
+      <link>/es/juris/dano-moral/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/juris/dano-moral/</guid>
+      <guid>/es/juris/dano-moral/</guid>
       <description><![CDATA[<h3 id="-daño-moral">📄 <strong>Daño moral</strong></h3>
 <p>En la <strong>acción de inconstitucionalidad</strong> promovida por los padres de un menor fallecido por electrocución, atribuida a una falla de la <strong>Administración Nacional de Electricidad (ANDE)</strong>. El caso se origina en un juicio de <strong>responsabilidad extracontractual</strong>, donde en primera instancia se concede una indemnización por daño moral, pero se rechazan los rubros de <em>pérdida de chance</em> e <em>intereses desde la demanda</em>.</p>
 <p>Los accionantes cuestionan la constitucionalidad de las resoluciones del <strong>Juzgado de Primera Instancia</strong> y del <strong>Tribunal de Apelación Quinta Sala</strong>, alegando violaciones a los artículos 16, 17, 137 y 256 de la Constitución Nacional paraguaya. Alegan arbitrariedad, falta de congruencia, fundamentación insuficiente y contradicciones lógicas en las sentencias.</p>
